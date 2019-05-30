@@ -1,13 +1,8 @@
-To submit your skill, replace this file with text from 
-https://rawgit.com/MycroftAI/mycroft-skills/master/meta_editor.html
-
-
-## YOUR SKILL NAME
-One line description of the skill
+## Myvis
+Implementation of Jarvis as a Mycroft "skill". 
 
 ## Description 
-A more verbose description, including any extra instructions or
-information that didn't fit in the one line.
+Mostly this is an exercise to learn about the differences that Mycroft has from Alexa in handling intents, dialogs, and vocabulary. Ultimately this should implement some type of machine learning to figure out what you want it to do by learning your habits.
 
 ## Examples 
 * "Hello world"
@@ -16,4 +11,4 @@ information that didn't fit in the one line.
 * "Count down"
 
 ## Credits 
-Your name
+Trevor Griffin
